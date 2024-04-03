@@ -1,5 +1,14 @@
 import java.util.Random;
 import java.util.Scanner;
+/**Class: Exercise2
+ * @author Ronoquade Lawrence
+ * @version 1.0
+ * Course: ITEC 2150 Spring 2024
+ * Written: April 2, 2024
+ *
+ * This class catches the ArrayIndexOutOfBoundsException
+ * if the user enters an index out of bounds.
+ */
 public class Exercise2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
